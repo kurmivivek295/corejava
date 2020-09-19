@@ -1,17 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b01c0a2f-03e1-4692-b621-522466e77b91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programs/number/NumWithMaxOccOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corejava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/corejava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/corejava/collections/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/corejava/collections/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regex/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regex/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,14 +48,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1WLJqZVjGYf3260mNs1eGRgz0iJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -42,7 +71,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumWithMaxOccOfDigit">
+  <component name="RunManager" selected="Application.Demo5">
     <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="regex.Demo1" />
       <module name="corejava" />
@@ -69,6 +98,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jetbrains.Demo4" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jetbrains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jetbrains.Demo5" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jetbrains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumWithMaxOccOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programs.number.NumWithMaxOccOfDigit" />
       <module name="corejava" />
@@ -84,24 +139,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.Demo4" />
+        <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.NumWithMaxOccOfDigit" />
         <item itemvalue="Application.Demo1 (1)" />
-        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b01c0a2f-03e1-4692-b621-522466e77b91" name="Default Changelist" comment="" />
@@ -112,42 +158,69 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="58" width="802" height="672" key="#Project_Structure" timestamp="1579110941684">
-      <screen x="0" y="25" width="1366" height="743" />
+    <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600357690935">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="278" y="58" width="802" height="672" key="#Project_Structure/0.25.1366.743@0.25.1366.743" timestamp="1579110941684" />
-    <state x="466" y="155" width="426" height="479" key="FileChooserDialogImpl" timestamp="1578925075566">
-      <screen x="0" y="25" width="1366" height="743" />
+    <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1600357690935" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1597559186190">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="466" y="155" width="426" height="479" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1578925075566" />
-    <state width="1343" height="178" key="GridCell.Tab.0.bottom" timestamp="1579357667435">
-      <screen x="0" y="25" width="1366" height="743" />
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597559186190" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1600360878773">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1579357667435" />
-    <state width="1343" height="178" key="GridCell.Tab.0.center" timestamp="1579357667434">
-      <screen x="0" y="25" width="1366" height="743" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600360878773" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1600360878773">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1579357667434" />
-    <state width="1343" height="178" key="GridCell.Tab.0.left" timestamp="1579357667433">
-      <screen x="0" y="25" width="1366" height="743" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600360878773" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1600360878773">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1579357667433" />
-    <state width="1343" height="178" key="GridCell.Tab.0.right" timestamp="1579357667434">
-      <screen x="0" y="25" width="1366" height="743" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600360878773" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1600360878773">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1579357667434" />
-    <state x="187" y="32" key="SettingsEditor" timestamp="1578942623757">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state x="187" y="32" key="SettingsEditor/0.25.1366.743@0.25.1366.743" timestamp="1578942623757" />
-    <state x="376" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1579109652689">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state x="376" y="224" key="com.intellij.ide.util.TipDialog/0.25.1366.743@0.25.1366.743" timestamp="1579109652689" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578942538866">
-      <screen x="0" y="25" width="1366" height="743" />
-    </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.25.1366.743@0.25.1366.743" timestamp="1578942538866" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600360878773" />
   </component>
 </project>
