@@ -19,15 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b01c0a2f-03e1-4692-b621-522466e77b91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="b01c0a2f-03e1-4692-b621-522466e77b91" name="Default Changelist" comment="Add jetbrains practice programs">
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo10_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jetbrains/Demo9_Other_Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,17 +67,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jetbrains" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo5">
-    <configuration name="Demo1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="regex.Demo1" />
+  <component name="RunManager" selected="Application.Demo10_2">
+    <configuration name="Demo10_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jetbrains.Demo10_1" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="regex.*" />
+          <option name="PATTERN" value="jetbrains.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Demo1" />
+    <configuration name="Demo10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jetbrains.Demo10_2" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="jetbrains.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumWithMaxOccOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.number.NumWithMaxOccOfDigit" />
+    <configuration name="Demo9_Other_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jetbrains.Demo9_Other_Solution" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programs.number.*" />
+          <option name="PATTERN" value="jetbrains.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo10_2" />
+        <item itemvalue="Application.Demo10_1" />
+        <item itemvalue="Application.Demo9_Other_Solution" />
         <item itemvalue="Application.Demo5" />
         <item itemvalue="Application.Demo4" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.NumWithMaxOccOfDigit" />
-        <item itemvalue="Application.Demo1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +159,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578923133519</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add jetbrains practice programs">
+      <created>1600485906164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600485906164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +208,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add jetbrains practice programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add jetbrains practice programs" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600357690935">
       <screen x="0" y="0" width="1280" height="680" />
@@ -206,21 +221,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597559186190" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1600360878773">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1601020378636">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600360878773" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1600360878773">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601020378636" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1601020378636">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600360878773" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1600360878773">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601020378636" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1601020378635">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600360878773" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1600360878773">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601020378635" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1601020378636">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600360878773" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601020378636" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1600487525963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600487525963" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600507955785">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600507955785" />
   </component>
 </project>
