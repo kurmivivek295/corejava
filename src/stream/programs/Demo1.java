@@ -11,9 +11,13 @@ public class Demo1 {
         List<Integer> list = Arrays.asList(1, 3, 5, 4, 7, 9, 6, 3);
 
         IntStream.range(0, list.size())
-                .filter( n -> n%3 == 0)
+                .filter( n -> n != 0)
+                .filter( n -> n%2 == 0)
                 .mapToObj(list::get)
                 .collect(Collectors.toList())
                 .forEach(System.out::println);
+
+//        IntStream.range(0, list.size())
+//                .filter(n -> n%2 == 0)
     }
 }
