@@ -20,24 +20,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b01c0a2f-03e1-4692-b621-522466e77b91" name="Default Changelist" comment="Add jetbrains practice programs">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/number/SumOfProperDivisior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/programs/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/CompletableFDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/CompletableFDemoRunAync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/CompletableFDemoSupplyAync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/FutureDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/SingletonDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/SingletonDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/SingletonDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/SingletonDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dp/test/SingletonDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/binarytree/BasicTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/hashtable/BasicHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/hashtable/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/list/BasicList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/list/BasicListMyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/list/BasicListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/queue/BasicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/stack/BasicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/stack/CardStackApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ds/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/InterfacesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/number/SumOfElementInArrayToNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/corejava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/corejava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/corejava/collections/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/corejava/collections/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/corejava/collections/Demo1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/collections/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/regex/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regex/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +68,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -67,10 +95,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sts_workspace/m1" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -78,28 +113,29 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="thread" />
-      <recent name="jetbrains" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dp.test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ds.list" />
+      <recent name="dp" />
+      <recent name="thread" />
+      <recent name="jetbrains" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Bank">
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bank" />
-      <module name="corejava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompletableFDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.CompletableFDemo" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="BasicListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.list.BasicListTest" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="ds.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletableFDemoRunAync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.CompletableFDemoRunAync" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regex.Demo1" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,21 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletableFDemoSupplyAync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.CompletableFDemoSupplyAync" />
-      <module name="corejava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfProperDivisior" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.number.SumOfProperDivisior" />
+    <configuration name="NumWithMaxOccOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.number.NumWithMaxOccOfDigit" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
@@ -146,13 +169,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOfElementInArrayToNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.number.SumOfElementInArrayToNum" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.hashtable.Test" />
+      <module name="corejava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ds.hashtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BasicListTest" />
+      <item itemvalue="Application.NumWithMaxOccOfDigit" />
+      <item itemvalue="Application.SumOfElementInArrayToNum" />
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.Test" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.SumOfProperDivisior" />
-        <item itemvalue="Application.CompletableFDemoSupplyAync" />
-        <item itemvalue="Application.CompletableFDemo" />
-        <item itemvalue="Application.CompletableFDemoRunAync" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.BasicListTest" />
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.SumOfElementInArrayToNum" />
+        <item itemvalue="Application.NumWithMaxOccOfDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600485906164</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Trying the filter with IntStream">
+      <created>1609476513753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609476513753</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,83 +279,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add jetbrains practice programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add jetbrains practice programs" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="528" y="108" width="374" height="634" key="#com.intellij.ide.util.MemberChooser" timestamp="1606455328182">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state x="528" y="108" width="374" height="634" key="#com.intellij.ide.util.MemberChooser/0.34.1440.776@0.34.1440.776" timestamp="1606455328182" />
-    <state x="361" y="121" width="624" height="538" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606453689083">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1600357690935" />
-    <state x="361" y="121" width="624" height="538" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.34.1440.776@0.34.1440.776" timestamp="1606453689083" />
-    <state x="453" y="169" width="524" height="511" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1603459047929">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state x="453" y="169" width="524" height="511" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.34.1440.776@0.34.1440.776" timestamp="1603459047929" />
-    <state x="454" y="266" width="522" height="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603856863498">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state x="454" y="266" width="522" height="317" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.34.1440.776@0.34.1440.776" timestamp="1603856863498" />
-    <state width="428" height="539" key="DebuggerActiveHint" timestamp="1606460905657">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state width="428" height="539" key="DebuggerActiveHint/0.34.1440.776@0.34.1440.776" timestamp="1606460905657" />
-    <state width="1415" height="224" key="GridCell.Tab.0.bottom" timestamp="1606467198706">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601020378636" />
-    <state width="1415" height="224" key="GridCell.Tab.0.bottom/0.34.1440.776@0.34.1440.776" timestamp="1606467198706" />
-    <state width="1415" height="224" key="GridCell.Tab.0.center" timestamp="1606467198706">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601020378636" />
-    <state width="1415" height="224" key="GridCell.Tab.0.center/0.34.1440.776@0.34.1440.776" timestamp="1606467198706" />
-    <state width="1415" height="224" key="GridCell.Tab.0.left" timestamp="1606467198706">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601020378635" />
-    <state width="1415" height="224" key="GridCell.Tab.0.left/0.34.1440.776@0.34.1440.776" timestamp="1606467198706" />
-    <state width="1415" height="224" key="GridCell.Tab.0.right" timestamp="1606467198706">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601020378636" />
-    <state width="1415" height="224" key="GridCell.Tab.0.right/0.34.1440.776@0.34.1440.776" timestamp="1606467198706" />
-    <state width="1415" height="224" key="GridCell.Tab.1.bottom" timestamp="1606467198707">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state width="1415" height="224" key="GridCell.Tab.1.bottom/0.34.1440.776@0.34.1440.776" timestamp="1606467198707" />
-    <state width="1415" height="224" key="GridCell.Tab.1.center" timestamp="1606467198707">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state width="1415" height="224" key="GridCell.Tab.1.center/0.34.1440.776@0.34.1440.776" timestamp="1606467198707" />
-    <state width="1415" height="224" key="GridCell.Tab.1.left" timestamp="1606467198707">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state width="1415" height="224" key="GridCell.Tab.1.left/0.34.1440.776@0.34.1440.776" timestamp="1606467198707" />
-    <state width="1415" height="224" key="GridCell.Tab.1.right" timestamp="1606467198707">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state width="1415" height="224" key="GridCell.Tab.1.right/0.34.1440.776@0.34.1440.776" timestamp="1606467198707" />
-    <state x="449" y="153" width="627" height="524" key="StructurePopup" timestamp="1606461920038">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state x="449" y="153" width="627" height="524" key="StructurePopup/0.34.1440.776@0.34.1440.776" timestamp="1606461920038" />
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1600487525963">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1600487525963" />
-    <state x="384" y="186" key="run.anything.popup" timestamp="1603608188245">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state x="384" y="186" key="run.anything.popup/0.34.1440.776@0.34.1440.776" timestamp="1603608188245" />
-    <state x="341" y="35" width="756" height="774" key="search.everywhere.popup" timestamp="1603601010643">
-      <screen x="0" y="34" width="1440" height="776" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600507955785" />
-    <state x="341" y="35" width="756" height="774" key="search.everywhere.popup/0.34.1440.776@0.34.1440.776" timestamp="1603601010643" />
+    <MESSAGE value="Trying the filter with IntStream" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying the filter with IntStream" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -306,6 +294,16 @@
           <url>file://$PROJECT_DIR$/src/thread/CompletableFDemoSupplyAync.java</url>
           <line>91</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dp/SingletonDemo4.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ds/list/BasicListMyImpl.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

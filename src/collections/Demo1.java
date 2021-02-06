@@ -10,7 +10,7 @@ abstract class A {
         return "A class";
     }
 }
-class B extends A{
+class        B extends A{
     public B a() {return new B();}
 
     @Override
