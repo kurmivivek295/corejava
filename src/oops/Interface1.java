@@ -7,6 +7,10 @@ public interface Interface1 {
         System.out.println("interface 1");
         return 1;
     }
+
+    static void m3() {
+
+    }
 }
 interface Interface2 extends Interface1 {
     void m1();
@@ -15,9 +19,12 @@ interface Interface2 extends Interface1 {
         System.out.println("interface 2");
         return 2;
     }
+    static void m3() {
+
+    }
 }
 
-class Impl implements Interface2 {
+class Impl implements Interface1, Interface2 {
     public static void main(String[] args) {
         Interface1 impl = new Impl();
         impl.m2();
@@ -27,5 +34,9 @@ class Impl implements Interface2 {
     @Override
     public void m1() {
         System.out.println("Impl");
+    }
+
+    static void m3()  {
+
     }
 }

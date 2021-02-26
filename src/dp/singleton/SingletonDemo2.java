@@ -1,4 +1,4 @@
-package dp;
+package dp.singleton;
 
 import java.util.concurrent.TimeUnit;
 

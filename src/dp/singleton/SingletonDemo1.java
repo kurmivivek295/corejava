@@ -1,6 +1,5 @@
-package dp;
+package dp.singleton;
 
-import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
 public class SingletonDemo1 {

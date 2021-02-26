@@ -1,9 +1,9 @@
-package dp.test;
+package dp.singleton.test;
 
-import dp.SingletonDemo1;
-import dp.SingletonDemo2;
-import dp.SingletonDemo3;
-import dp.SingletonDemo4;
+import dp.singleton.SingletonDemo1;
+import dp.singleton.SingletonDemo2;
+import dp.singleton.SingletonDemo3;
+import dp.singleton.SingletonDemo4;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

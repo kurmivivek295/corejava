@@ -1,4 +1,4 @@
-package thread;
+package advanced_threading;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;

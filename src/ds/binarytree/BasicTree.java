@@ -20,6 +20,33 @@ public class BasicTree <X extends Comparable<X>> {
         }
     }
 
+    public boolean contains(X item) {
+        Node currentNode = getNode(item);
+
+        if (currentNode != null) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    private Node getNode(X item) {
+        Node currentNode = this.root;
+
+        while (currentNode != null) {
+            int comapare = currentNode.getItem().compareTo(item);
+
+            if (comapare == 0) {
+                return currentNode;
+            } else if (comapare > 0) {
+                currentNode = currentNode.getLeft();
+            } else {
+                currentNode = currentNode.getRight();
+            }
+        }
+        return null;
+    }
+
     private void insert(Node parent, Node child) {
         if (parent.getItem().compareTo(child.getItem()) > 0) {
             if (parent.getLeft() == null) {

@@ -1,6 +1,5 @@
-package thread;
+package advanced_threading;
 
-import java.time.Instant;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

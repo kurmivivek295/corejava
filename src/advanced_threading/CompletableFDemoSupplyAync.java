@@ -1,4 +1,4 @@
-package thread;
+package advanced_threading;
 
 import java.util.ArrayList;
 import java.util.Arrays;
