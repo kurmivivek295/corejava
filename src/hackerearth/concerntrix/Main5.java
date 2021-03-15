@@ -37,6 +37,6 @@ class B2 extends B1
 public class Main5 {
     public static void main(String []aa)
     {
-        new B2(2,3).add();
+//        new B2(2,3).add();
     }
 }

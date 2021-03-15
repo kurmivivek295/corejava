@@ -20,42 +20,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b01c0a2f-03e1-4692-b621-522466e77b91" name="Default Changelist" comment="Add jetbrains practice programs">
-      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/amadeus/Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/SingletonDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/SingletonDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/SingletonDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/SingletonDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dp/test/SingletonDemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/binarytree/BasicTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/hashtable/BasicHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/hashtable/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/list/BasicList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/list/BasicListMyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/list/BasicListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/queue/BasicQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/stack/BasicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/stack/CardStackApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ds/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerearth/cars24/Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/InterfacesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/number/SumOfElementInArrayToNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_threading/barrier/BarrierInAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_threading/demo1/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_threading/demo1/CallableDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_threading/demo1/CallableDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_threading/demo1/ExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_threading/locks/LockDemoSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/demo1/AnnotationCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/demo1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/demo2/EmpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/demo2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/demo2/JsonField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/annotations/demo2/JsonSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo1/LongWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo1/LongWrapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo2/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo2/DeadLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo3/RaceSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo3/RaceSingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/Consumer4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/Producer4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/ProducerConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/ProducerConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/ProducerConsumer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectmethods/CloneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/string/PalindromCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corejava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/corejava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/corejava/collections/Demo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collections/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/regex/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/regex/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerearth/concerntrix/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerearth/concerntrix/Main5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +61,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -123,19 +115,20 @@
       <recent name="dp.test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="advanced_threading.demo1" />
+      <recent name="basic_threading.demo4" />
       <recent name="ds.list" />
       <recent name="dp" />
       <recent name="thread" />
-      <recent name="jetbrains" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="BasicListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.list.BasicListTest" />
+  <component name="RunManager" selected="Application.PalindromCheck">
+    <configuration name="BarrierInAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced_threading.barrier.BarrierInAction" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.list.*" />
+          <option name="PATTERN" value="advanced_threading.barrier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="regex.Demo1" />
+    <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectmethods.CloneDemo" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="regex.*" />
+          <option name="PATTERN" value="objectmethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumWithMaxOccOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.number.NumWithMaxOccOfDigit" />
+    <configuration name="EmpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotations.demo2.EmpTest" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programs.number.*" />
+          <option name="PATTERN" value="annotations.demo2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfElementInArrayToNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.number.SumOfElementInArrayToNum" />
+    <configuration name="PalindromCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.string.PalindromCheck" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programs.number.*" />
+          <option name="PATTERN" value="programs.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ds.hashtable.Test" />
+    <configuration name="WaitNotifyUsingLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced_threading.locks.WaitNotifyUsingLock" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ds.hashtable.*" />
+          <option name="PATTERN" value="advanced_threading.locks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,19 +189,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicListTest" />
-      <item itemvalue="Application.NumWithMaxOccOfDigit" />
-      <item itemvalue="Application.SumOfElementInArrayToNum" />
-      <item itemvalue="Application.Demo1" />
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.BarrierInAction" />
+      <item itemvalue="Application.WaitNotifyUsingLock" />
+      <item itemvalue="Application.EmpTest" />
+      <item itemvalue="Application.CloneDemo" />
+      <item itemvalue="Application.PalindromCheck" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.BasicListTest" />
-        <item itemvalue="Application.Demo1" />
-        <item itemvalue="Application.SumOfElementInArrayToNum" />
-        <item itemvalue="Application.NumWithMaxOccOfDigit" />
+        <item itemvalue="Application.PalindromCheck" />
+        <item itemvalue="Application.CloneDemo" />
+        <item itemvalue="Application.EmpTest" />
+        <item itemvalue="Application.BarrierInAction" />
+        <item itemvalue="Application.WaitNotifyUsingLock" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609476513753</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Practicing at some point">
+      <created>1612635859989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612635859989</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,23 +280,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add jetbrains practice programs" />
     <MESSAGE value="Trying the filter with IntStream" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying the filter with IntStream" />
+    <MESSAGE value="Practicing at some point" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practicing at some point" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/thread/CompletableFDemoRunAync.java</url>
+          <url>file://$PROJECT_DIR$/src/advanced_threading/CompletableFDemoRunAync.java</url>
           <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/thread/CompletableFDemoSupplyAync.java</url>
+          <url>file://$PROJECT_DIR$/src/advanced_threading/CompletableFDemoSupplyAync.java</url>
           <line>91</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/dp/SingletonDemo4.java</url>
+          <url>file://$PROJECT_DIR$/src/dp/singleton/SingletonDemo4.java</url>
           <line>11</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -304,6 +305,86 @@
           <url>file://$PROJECT_DIR$/src/ds/list/BasicListMyImpl.java</url>
           <line>45</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basic_threading/demo4/ProducerConsumer2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
