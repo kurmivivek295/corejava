@@ -20,34 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b01c0a2f-03e1-4692-b621-522466e77b91" name="Default Changelist" comment="Add jetbrains practice programs">
-      <change afterPath="$PROJECT_DIR$/src/advanced_threading/barrier/BarrierInAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_threading/demo1/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_threading/demo1/CallableDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_threading/demo1/CallableDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_threading/demo1/ExecutorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_threading/locks/LockDemoSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advanced_threading/locks/WaitNotifyUsingLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotations/demo1/AnnotationCustom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotations/demo1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotations/demo2/EmpTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotations/demo2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotations/demo2/JsonField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotations/demo2/JsonSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo1/LongWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo1/LongWrapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo2/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo2/DeadLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo3/RaceSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo3/RaceSingletonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/Consumer4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/Producer4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/ProducerConsumer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/ProducerConsumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic_threading/demo4/ProducerConsumer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectmethods/CloneDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/string/PalindromCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linkedlist/LinkedList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linkedlist/LinkedList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linkedlist/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_structure/linkedlist/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/number/IntegerDecimalDiff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerearth/concerntrix/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerearth/concerntrix/Main5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +80,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -122,13 +100,13 @@
       <recent name="thread" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromCheck">
-    <configuration name="BarrierInAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced_threading.barrier.BarrierInAction" />
+  <component name="RunManager" selected="Application.LinkedList1">
+    <configuration name="IntegerDecimalDiff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.number.IntegerDecimalDiff" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced_threading.barrier.*" />
+          <option name="PATTERN" value="programs.number.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectmethods.CloneDemo" />
+    <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.linkedlist.LinkedList1" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectmethods.*" />
+          <option name="PATTERN" value="data_structure.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotations.demo2.EmpTest" />
+    <configuration name="LinkedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.linkedlist.LinkedList2" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annotations.demo2.*" />
+          <option name="PATTERN" value="data_structure.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitNotifyUsingLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advanced_threading.locks.WaitNotifyUsingLock" />
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.linkedlist.Recursion" />
       <module name="corejava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advanced_threading.locks.*" />
+          <option name="PATTERN" value="data_structure.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BarrierInAction" />
-      <item itemvalue="Application.WaitNotifyUsingLock" />
-      <item itemvalue="Application.EmpTest" />
-      <item itemvalue="Application.CloneDemo" />
+      <item itemvalue="Application.IntegerDecimalDiff" />
+      <item itemvalue="Application.LinkedList1" />
+      <item itemvalue="Application.LinkedList2" />
       <item itemvalue="Application.PalindromCheck" />
+      <item itemvalue="Application.Recursion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList1" />
+        <item itemvalue="Application.LinkedList2" />
+        <item itemvalue="Application.Recursion" />
+        <item itemvalue="Application.IntegerDecimalDiff" />
         <item itemvalue="Application.PalindromCheck" />
-        <item itemvalue="Application.CloneDemo" />
-        <item itemvalue="Application.EmpTest" />
-        <item itemvalue="Application.BarrierInAction" />
-        <item itemvalue="Application.WaitNotifyUsingLock" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +364,22 @@
           <line>23</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure/linkedlist/LinkedList1.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_structure/linkedlist/LinkedList1.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="data_structure.linkedlist.LinkedList1$Node" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
