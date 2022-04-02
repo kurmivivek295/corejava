@@ -4,6 +4,8 @@ public class Age {
 
     private Integer noOfYears;
 
+    public Age() {this.noOfYears = 0;}
+
     public Age(Integer noOfYears) {
         this.noOfYears = noOfYears;
     }

@@ -8,6 +8,10 @@ public class Q4 {
         s1 += "d";
         System.out.println( (s1 == s2));
 
+        String s3 = "cde";
+        String s4 = new String("cde");
+        System.out.println(s3 == s4);
+
         StringBuffer sb1 = new StringBuffer("abc");
         StringBuffer sb2 = sb1;
         sb1.append("d");
