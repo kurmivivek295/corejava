@@ -3,6 +3,7 @@ package stream;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
+import java.util.function.Function;
 import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
@@ -11,8 +12,10 @@ public class StreamDemo6 {
 
 	public static void main(String[] args) {
 
+		Function<String, String[]> splitFun = str -> str.split("");
+
 		Stream.of("Hello", "World")
-				.map(w -> w.split(""))
+				.map(splitFun)
 				.flatMap(Arrays::stream)
 				.distinct()
 				.forEach(System.out::print);
@@ -25,6 +28,8 @@ public class StreamDemo6 {
 								.map(j -> new int[]{i, j})
 						)
 						.collect(toList());
+
+		pairs.stream().map(Arrays::toString).forEach(System.out::println);
 	}
 
 }
